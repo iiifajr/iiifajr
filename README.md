@@ -57,22 +57,3 @@
 
 ---
 
-## 🎯 Current Engineering Focus
-
-```json
-{
-  "learning": [
-    "Advanced Computer Engineering Concepts",
-    "Hardware-Software Interfacing",
-    "Modern Academic Teaching Strategies"
-  ],
-  "building": [
-    "Simplified C++ Programming Curriculum from Scratch",
-    "Highly Interactive & Colorful Materials for Visual Learners",
-    "Educational Tech Channels Launch"
-  ],
-  "milestones": [
-    "Summer Training Certificate in Electric Circuits Fundamentals",
-    "Advanced DevOps and Version Control Basics Workshop"
-  ]
-}
