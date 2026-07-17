@@ -9,7 +9,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 Hi! I'm **Fajr Aldajani**, a Full-Systems & Full-Stack Systems Engineer driven by the convergence of hardware intelligence and software architecture.
 
