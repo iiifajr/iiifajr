@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/d/1nY06-EMCxYrzKccP_n23NuTpkKAAYSJs" width="100%" alt="Fajr Aldajani Banner">
+  <img src="https://lh3.googleusercontent.com/d/1DwQyPSG02BIIoWz30vGZf7sZWYldWm39" width="100%" alt="Fajr Aldajani Banner">
   
   <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=Hello+everyone!!!;I+am+Fajr+Aldajani;Full-Systems+Engineer" alt="Typing Animation">
 </div>
+
 
 ---
 
