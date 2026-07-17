@@ -47,17 +47,3 @@ I bridge the gap between low-level hardware constraints and high-level artificia
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<!-- الإحصائيات العامة -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiifajr&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff)
-
-<!-- إحصائيات الـ Streak (التي طلبتِها) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iiifajr&hide_border=true&background=0D1117&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
-
-<!-- اللغات الأكثر استخداماً -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiifajr&layout=compact&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff)
-
-</div>
