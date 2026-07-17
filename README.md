@@ -1,59 +1,62 @@
-# <p align="center">✨ FAJR ALDAJANI ✨</p>
-<p align="center"><b>Computer Engineering Student | Tech Content Creator</b></p>
+<div align="center">
+  <img src="https://lh3.googleusercontent.com/d/1nY06-EMCxYrzKccP_n23NuTpkKAAYSJs" width="100%" alt="Fajr Aldajani Banner">
+  
+  <br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iiifajr&label=Profile%20Views&color=ce93d8&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 💻 > whoami
-
-* **Name** :: Fajr Aldajani
-* **Major** :: Computer Engineering @ Taif University 🎓
-* **Focus** :: C++ Programming from Scratch | Digital Educational Content 🚀
-* **Passions** :: Visual Learning, Design, and Simplifying Complex Tech Concepts ✨
-* **Core Philosophy** :: Building aesthetic, music-free, and highly structured technical resources.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&lines=Hello+everyone!!!;I+am+Fajr+Aldajani;Full-Systems+Engineer" alt="Typing Animation">
+</div>
 
 ---
 
-## 📱 Connect With Me
+## 👩‍💻 About Me
 
-<p align="center">
-  <a href="https://youtube.com/@fajr_iii?si=JdyXkBovQNfPDz7h" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://x.com/fajr_iii?s=11" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/iii.fajr?igsh=bTQyaWMzZ3B1ZHRp&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://snapchat.com/t/Ya0WgdUC" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-%23FFCC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black" alt="Snapchat" />
-  </a>
-  <a href="https://www.tiktok.com/@iii.fajr?_r=1&_t=ZS-97yZauWmox3" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://www.linkedin.com/in/fajr-al-otaibi-a454763b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.threads.com/@iii.fajr?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
-  </a>
-</p>
+Hi! I'm **Fajr Aldajani**, a Full-Systems & Full-Stack Systems Engineer driven by the convergence of hardware intelligence and software architecture.
+
+* 🤖 **Robotics & Control:** Expert in bio-inspired kinematics, embedded firmware, and smart site automation.
+* 🧠 **AI & Vision:** Specializing in real-time object detection pipelines and intelligent computer vision.
+* 🔒 **Systems & Networking:** Focused on secure network architectures and low-level kernel simulation.
+
+I bridge the gap between low-level hardware constraints and high-level artificial intelligence to solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🌐 Socials
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-2A4747?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iii.fajr) [![Snapchat](https://img.shields.io/badge/Snapchat-2A4747?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/t/Ya0WgdUC) [![TikTok](https://img.shields.io/badge/TikTok-2A4747?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@iii.fajr) [![Threads](https://img.shields.io/badge/Threads-2A4747?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@iii.fajr)
 
 ---
 
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Logic
+![Python](https://img.shields.io/badge/Python-2A4747?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-2A4747?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-2A4747?style=for-the-badge&logo=matlab&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-2A4747?style=for-the-badge&logo=verilog&logoColor=white)
+
+### Robotics, HW & Simulation
+![Arduino](https://img.shields.io/badge/Arduino-2A4747?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-2A4747?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![TinkerCAD](https://img.shields.io/badge/TinkerCAD-2A4747?style=for-the-badge&logo=tinkercad&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-2A4747?style=for-the-badge&logo=ros&logoColor=white)
+
+### AI & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2A4747?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-2A4747?style=for-the-badge&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-2A4747?style=for-the-badge&logo=keras&logoColor=white)
+
+### Networking & Tools
+![Cisco](https://img.shields.io/badge/Cisco-2A4747?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-2A4747?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-2A4747?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- الإحصائيات العامة -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiifajr&show_icons=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff)
+
+<!-- إحصائيات الـ Streak (التي طلبتِها) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iiifajr&hide_border=true&background=0D1117&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
+<!-- اللغات الأكثر استخداماً -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiifajr&layout=compact&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=ffffff)
+
+</div>
